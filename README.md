@@ -1,19 +1,20 @@
 ## Welcome to the "List of images" project.
 
-## It is displaying the table of 5000 images, pulling ID, title and link. 
-## Project was made using public API (https://jsonplaceholder.typicode.com) + Vue (axios, Vuex, Router, Bootstrap vue...).
+### It is displaying the table of 5000 images, pulling ID, title and link. 
+### Project was made using public API (https://jsonplaceholder.typicode.com) + Vue (axios, Vuex, Router, Bootstrap vue...).
 
-## To install project dependencies run:
+### To install project dependencies run:
  ```
  npm i
  ```
-## to run a local server run:
+### to run a local server run:
 ```
 npm run serve
 ```
 
-## Further options can be found below:
-## Compiles and minifies for production
+### Further options can be found below:
+###
+### Compiles and minifies for production
 ```
 npm run build
 ```
